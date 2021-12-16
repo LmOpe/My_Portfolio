@@ -1,0 +1,102 @@
+.section_1
+{
+    background-color: rgb(252, 236, 250);
+    margin: -20px -10px 0px -10px;
+    height: 400px;
+}
+nav ul
+{
+    list-style: none;
+    text-align: right;
+    padding-right: 20px;
+}
+nav ul li
+{
+    display: inline-flex;
+    padding: 25px 20px;
+}
+nav ul li a
+{
+    text-decoration: none;
+    color: rgb(36, 0, 30);
+    font-size: 20px;
+    border-bottom: solid 3px rgb(36, 0, 30);
+}
+nav ul li a span{
+padding-left: 10px;
+}
+nav ul li a:hover{
+    background-color: white;
+    color: rgb(58, 1, 58);
+    padding: 10px 30px ;
+    border-radius: 20px;
+
+}
+h1, h2 {
+    text-align: center;
+    margin: auto;
+}
+.Intro{
+    margin: auto;
+    padding: 80px;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+div#About
+{
+    margin: 40px 700px 20px 60px;
+    padding: 10px 20px;
+    background-color: rgb(251, 255, 255);
+    font-size: 19px;
+}
+p progress
+{
+    font-size: 30px;
+}
+.avatar
+{
+    border-radius: 50%;
+}
+.about_me
+{
+    margin-left: 700px;
+    margin-right: 100px;
+    margin-top: -800px;
+    font-size: 25px;
+}
+footer{
+    height: 250px;
+    margin: 700px 0px -100px 0px;
+    text-align: center;
+    padding: 20px;
+    color: rgb(58, 1, 58);
+    background-color: rgb(255, 211, 255);
+    padding: 25px;
+}
+footer span i{
+    background-color: rgb(58, 1, 58);
+    color: white;
+    border-radius: 50%;
+    padding: 10px;
+    margin-left: 40px;
+    margin-bottom: 80px;
+    margin-top: 20px;
+    font-size: 30px;
+}
+footer span a i:hover{
+    background-color: white;
+    color: rgb(58, 1, 58);
+}
+.button a i{
+    text-align: right;
+    font-size: 30px;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: rgb(58, 1, 58);
+    color: white;
+    margin-left: 1150px;
+}
+.button a i:hover{
+    background-color: white;
+    color: rgb(58, 1, 58);
+}
